@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-05T12:16:45Z" name="Default suite" finished-at="2021-03-05T12:16:48Z" duration-ms="3516">
+    <groups>
+    </groups>
+    <test started-at="2021-03-05T12:16:45Z" name="Default test" finished-at="2021-03-05T12:16:48Z" duration-ms="3516">
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="openfilewriter()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@2eae8e6e]" started-at="2021-03-05T17:46:45Z" name="openfilewriter" finished-at="2021-03-05T17:46:45Z" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openfilewriter -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@2eae8e6e]" started-at="2021-03-05T17:46:45Z" name="loginPageTitleTest" finished-at="2021-03-05T17:46:45Z" duration-ms="421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@2eae8e6e]" started-at="2021-03-05T17:46:45Z" name="loginPageTitleTest" finished-at="2021-03-05T17:46:46Z" duration-ms="1360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@2eae8e6e]" started-at="2021-03-05T17:46:45Z" name="loginPageTitleTest" finished-at="2021-03-05T17:46:45Z" duration-ms="421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@2eae8e6e]" started-at="2021-03-05T17:46:45Z" name="loginPageTitleTest" finished-at="2021-03-05T17:46:47Z" duration-ms="2453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@2eae8e6e]" started-at="2021-03-05T17:46:45Z" name="loginPageTitleTest" finished-at="2021-03-05T17:46:46Z" duration-ms="1387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@2eae8e6e]" started-at="2021-03-05T17:46:45Z" name="loginPageTitleTest" finished-at="2021-03-05T17:46:48Z" duration-ms="3429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@2eae8e6e]" started-at="2021-03-05T17:46:45Z" name="loginPageTitleTest" finished-at="2021-03-05T17:46:46Z" duration-ms="1376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@2eae8e6e]" started-at="2021-03-05T17:46:45Z" name="loginPageTitleTest" finished-at="2021-03-05T17:46:47Z" duration-ms="2464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@2eae8e6e]" started-at="2021-03-05T17:46:45Z" name="loginPageTitleTest" finished-at="2021-03-05T17:46:45Z" duration-ms="532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@2eae8e6e]" started-at="2021-03-05T17:46:45Z" name="loginPageTitleTest" finished-at="2021-03-05T17:46:47Z" duration-ms="2425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="closefilewriter()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@2eae8e6e]" started-at="2021-03-05T17:46:48Z" name="closefilewriter" finished-at="2021-03-05T17:46:48Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closefilewriter -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
