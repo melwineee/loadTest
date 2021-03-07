@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="Automation Test Suite" parallel="methods" thread-count="10">
-
+<suite name="Load Test Suite" parallel="methods" thread-count="100">
 	<listeners>
 		<listener class-name="com.qa.ExtentReportListener.ExtentReporterNG" />
+		<listener class-name="com.crm.qa.testcases.LoadTest" />
 	</listeners>
 
 
-	<test name="Automation Test Suite">
+	<test name="Load Test Suite">
 		<classes>
-			<class name="com.crm.qa.testcases.LoginPageTest"></class>
-
+			<class name="com.crm.qa.testcases.LoadTest"></class>
+			
 		</classes>
 	</test>
 </suite>
